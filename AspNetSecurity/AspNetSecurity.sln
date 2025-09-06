@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataProtection", "DataProte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhiteBlackList", "WhiteBlackList\WhiteBlackList.csproj", "{D7CC4BAB-A18D-43DB-BE17-8FF50ED513DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecretProtection", "SecretProtection\SecretProtection.csproj", "{43A0C1D1-FD48-4C03-9291-683CD2AF9257}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D7CC4BAB-A18D-43DB-BE17-8FF50ED513DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7CC4BAB-A18D-43DB-BE17-8FF50ED513DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7CC4BAB-A18D-43DB-BE17-8FF50ED513DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43A0C1D1-FD48-4C03-9291-683CD2AF9257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A0C1D1-FD48-4C03-9291-683CD2AF9257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43A0C1D1-FD48-4C03-9291-683CD2AF9257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A0C1D1-FD48-4C03-9291-683CD2AF9257}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
