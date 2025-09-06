@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35931.197 d17.13
+VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataProtection", "DataProtection\DataProtection.csproj", "{B1FE3F07-3A7E-49B4-AEEC-D7FDECCF885C}"
 EndProject
@@ -9,9 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhiteBlackList", "WhiteBlac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecretProtection", "SecretProtection\SecretProtection.csproj", "{43A0C1D1-FD48-4C03-9291-683CD2AF9257}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetSecurity.API", "AspNetSecurity.API\AspNetSecurity.API.csproj", "{0AC3E555-411D-4731-958C-1321A7C012C4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cors.API", "AspNetSecurity.API\Cors.API.csproj", "{0AC3E555-411D-4731-958C-1321A7C012C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetSecurity.UI", "AspNetSecurity.UI\AspNetSecurity.UI.csproj", "{B1043B02-7C5D-4BBB-B56A-226D4B53DBA8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cors.UI", "AspNetSecurity.UI\Cors.UI.csproj", "{B1043B02-7C5D-4BBB-B56A-226D4B53DBA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XSS", "XSS\XSS.csproj", "{C6541779-F542-4C11-96BB-CA817EF4908F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{B1043B02-7C5D-4BBB-B56A-226D4B53DBA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1043B02-7C5D-4BBB-B56A-226D4B53DBA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1043B02-7C5D-4BBB-B56A-226D4B53DBA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6541779-F542-4C11-96BB-CA817EF4908F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6541779-F542-4C11-96BB-CA817EF4908F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6541779-F542-4C11-96BB-CA817EF4908F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6541779-F542-4C11-96BB-CA817EF4908F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -81,9 +81,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eren.sezen\\source\\repos\\AspNetSecurity\\AspNetSecurity\\AspNetSecurity.API\\AspNetSecurity.API.csproj",
-      "projectName": "AspNetSecurity.API",
-      "projectPath": "C:\\Users\\eren.sezen\\source\\repos\\AspNetSecurity\\AspNetSecurity\\AspNetSecurity.API\\AspNetSecurity.API.csproj",
+      "projectUniqueName": "C:\\Users\\eren.sezen\\source\\repos\\AspNetSecurity\\AspNetSecurity\\AspNetSecurity.API\\Cors.API.csproj",
+      "projectName": "Cors.API",
+      "projectPath": "C:\\Users\\eren.sezen\\source\\repos\\AspNetSecurity\\AspNetSecurity\\AspNetSecurity.API\\Cors.API.csproj",
       "packagesPath": "C:\\Users\\eren.sezen\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\eren.sezen\\source\\repos\\AspNetSecurity\\AspNetSecurity\\AspNetSecurity.API\\obj\\",
       "projectStyle": "PackageReference",

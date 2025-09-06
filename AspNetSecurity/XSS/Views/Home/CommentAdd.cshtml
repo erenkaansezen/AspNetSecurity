@@ -1,0 +1,39 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>CommentAdd</title>
+</head>
+<body>
+    <form method="post">
+		<div>
+			<label for="name">Name:</label>
+			<input type="text" id="name" name="name" />
+		</div>
+		<div>
+			<label for="comment">Comment:</label>
+			<input type="text" id="comment" name="comment" />
+		</div>
+		<div>
+			<input type="submit" value="Add Comment" />
+		</div>
+    </form>
+	<h1>Yorumlar</h1>
+@* 	<strong>@ViewBag.Name</strong>
+	<p>@Html.Raw(ViewBag.Comment)</p> <!-- Gösterim amacıyla HTML koruması devre dışı bırakıldı koruma için htmlSanitizer kullanılması gerekiyor--> *@
+	@if (ViewBag.Comments != null)
+	{
+		foreach (var comment in ViewBag.Comments as string[])
+		{
+			<span>@comment</span>
+		}
+	})
+
+</body>
+</html>

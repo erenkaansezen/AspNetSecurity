@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A5VlskaybC0=",
+  "dgSpecHash": "YxzklDsIBUs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\eren.sezen\\source\\repos\\AspNetSecurity\\AspNetSecurity\\AspNetSecurity.API\\AspNetSecurity.API.csproj",
+  "projectFilePath": "C:\\Users\\eren.sezen\\source\\repos\\AspNetSecurity\\AspNetSecurity\\AspNetSecurity.API\\Cors.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eren.sezen\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
     "C:\\Users\\eren.sezen\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"

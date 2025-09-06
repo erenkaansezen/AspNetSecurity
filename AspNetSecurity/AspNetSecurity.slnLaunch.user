@@ -3,11 +3,11 @@
     "Name": "New Profile",
     "Projects": [
       {
-        "Path": "AspNetSecurity.API\\AspNetSecurity.API.csproj",
+        "Path": "AspNetSecurity.API\\Cors.API.csproj",
         "Action": "Start"
       },
       {
-        "Path": "AspNetSecurity.UI\\AspNetSecurity.UI.csproj",
+        "Path": "AspNetSecurity.UI\\Cors.UI.csproj",
         "Action": "Start"
       }
     ]

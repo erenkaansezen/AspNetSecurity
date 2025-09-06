@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\eren.sezen\\source\\repos\\AspNetSecurity\\AspNetSecurity\\AspNetSecurity.UI\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\AspNetSecurity.UI.bundle.scp.css",
-      "PackagePath": "staticwebassets\\AspNetSecurity.UI.s8un6pqp4x.bundle.scp.css"
+      "Id": "C:\\Users\\eren.sezen\\source\\repos\\AspNetSecurity\\AspNetSecurity\\AspNetSecurity.UI\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Cors.UI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Cors.UI.4ugtuz67v8.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\eren.sezen\\source\\repos\\AspNetSecurity\\AspNetSecurity\\AspNetSecurity.UI\\wwwroot\\css\\site.css",
@@ -257,24 +257,24 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {
-      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.AspNetSecurity.UI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Cors.UI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
-      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.AspNetSecurity.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Cors.UI.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.AspNetSecurity.UI.props",
-      "PackagePath": "build\\AspNetSecurity.UI.props"
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Cors.UI.props",
+      "PackagePath": "build\\Cors.UI.props"
     },
     {
-      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.AspNetSecurity.UI.props",
-      "PackagePath": "buildMultiTargeting\\AspNetSecurity.UI.props"
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Cors.UI.props",
+      "PackagePath": "buildMultiTargeting\\Cors.UI.props"
     },
     {
-      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.AspNetSecurity.UI.props",
-      "PackagePath": "buildTransitive\\AspNetSecurity.UI.props"
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Cors.UI.props",
+      "PackagePath": "buildTransitive\\Cors.UI.props"
     }
   ],
   "ElementsToRemove": []

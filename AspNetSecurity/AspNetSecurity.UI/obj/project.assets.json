@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eren.sezen\\source\\repos\\AspNetSecurity\\AspNetSecurity\\AspNetSecurity.UI\\AspNetSecurity.UI.csproj",
-      "projectName": "AspNetSecurity.UI",
-      "projectPath": "C:\\Users\\eren.sezen\\source\\repos\\AspNetSecurity\\AspNetSecurity\\AspNetSecurity.UI\\AspNetSecurity.UI.csproj",
+      "projectUniqueName": "C:\\Users\\eren.sezen\\source\\repos\\AspNetSecurity\\AspNetSecurity\\AspNetSecurity.UI\\Cors.UI.csproj",
+      "projectName": "Cors.UI",
+      "projectPath": "C:\\Users\\eren.sezen\\source\\repos\\AspNetSecurity\\AspNetSecurity\\AspNetSecurity.UI\\Cors.UI.csproj",
       "packagesPath": "C:\\Users\\eren.sezen\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\eren.sezen\\source\\repos\\AspNetSecurity\\AspNetSecurity\\AspNetSecurity.UI\\obj\\",
       "projectStyle": "PackageReference",
