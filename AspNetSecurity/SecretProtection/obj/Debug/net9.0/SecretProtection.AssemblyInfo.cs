@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SecretProtection")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e89cb027538ce0c4aeac8c687a3ffd44a91a548")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67cb45f563c7e32e1a28ab80324beb0dc090c938")]
 [assembly: System.Reflection.AssemblyProductAttribute("SecretProtection")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SecretProtection")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

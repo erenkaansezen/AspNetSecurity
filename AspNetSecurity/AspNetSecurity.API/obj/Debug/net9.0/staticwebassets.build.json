@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "fRtuyP/o5HSDX5NtgDDIdshXTHXY7u5Mlj1UYDOO9zo=",
+  "Source": "AspNetSecurity.API",
+  "BasePath": "_content/AspNetSecurity.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
