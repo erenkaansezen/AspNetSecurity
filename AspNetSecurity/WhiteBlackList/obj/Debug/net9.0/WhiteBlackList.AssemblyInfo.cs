@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WhiteBlackList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9dd23da09fb019ad676b6a3329e7118e2062131f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce0f2a512c28ea1643110be47d565b22f7554b7b")]
 [assembly: System.Reflection.AssemblyProductAttribute("WhiteBlackList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WhiteBlackList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

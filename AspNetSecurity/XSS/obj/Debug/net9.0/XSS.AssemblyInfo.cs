@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("XSS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e67dbe2552902ec6fe2cfd7dca620fb7038e901a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce0f2a512c28ea1643110be47d565b22f7554b7b")]
 [assembly: System.Reflection.AssemblyProductAttribute("XSS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("XSS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
