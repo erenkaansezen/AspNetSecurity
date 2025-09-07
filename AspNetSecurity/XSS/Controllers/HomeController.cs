@@ -1,4 +1,4 @@
-using System.Diagnostics;
+﻿using System.Diagnostics;
 using System.Text.Encodings.Web;
 using Microsoft.AspNetCore.Mvc;
 using XSS.Models;
@@ -26,12 +26,13 @@ namespace XSS.Controllers
             }
             return View();
         }
+        [ValidateAntiForgeryToken]
         [HttpPost]
         public IActionResult CommentAdd(string name,string comment)
         {
-            _urlEncode.Encode(name); // url XSS ?ifreleme
-            _htmlEncode.Encode(comment); // html XSS ?ifreleme
-            _javaScriptEncoder.Encode(comment); // js XSS ?ifreleme
+            _urlEncode.Encode(name); // url XSS şifreleme
+            _htmlEncode.Encode(comment); // html XSS şifreleme
+            _javaScriptEncoder.Encode(comment); // js XSS şifreleme
             ViewBag.name = name;
             ViewBag.comment = comment;
 

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qxSg3VpiQpibg2+f+sg9sp+rifsG9+4cOzZ8oFsWuHM=",
+  "Hash": "2W+NeorK+IcItnY3tm52on+n0Hf+n5TWtN+JHM1GEsI=",
   "Source": "XSS",
   "BasePath": "_content/XSS",
   "Mode": "Default",
@@ -1025,12 +1025,12 @@
       "OriginalItemSpec": "C:\\Users\\eren.sezen\\source\\repos\\AspNetSecurity\\AspNetSecurity\\XSS\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {
-      "Identity": "C:\\Users\\eren.sezen\\source\\repos\\AspNetSecurity\\AspNetSecurity\\XSS\\obj\\Debug\\net9.0\\compressed\\roknqsmis3-3r8b2a0bt1.gz",
+      "Identity": "C:\\Users\\eren.sezen\\source\\repos\\AspNetSecurity\\AspNetSecurity\\XSS\\obj\\Debug\\net9.0\\compressed\\roknqsmis3-oyo0whu007.gz",
       "SourceId": "XSS",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\eren.sezen\\source\\repos\\AspNetSecurity\\AspNetSecurity\\XSS\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/XSS",
-      "RelativePath": "comment#[.{fingerprint=3r8b2a0bt1}]?.txt.gz",
+      "RelativePath": "comment#[.{fingerprint=oyo0whu007}]?.txt.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1039,8 +1039,8 @@
       "RelatedAsset": "C:\\Users\\eren.sezen\\source\\repos\\AspNetSecurity\\AspNetSecurity\\XSS\\wwwroot\\comment.txt",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "7t0uxwsjr0",
-      "Integrity": "Zd+4tKe+YyWXvSCQtbmshsT5I0pKoALzyCu8fniaMWo=",
+      "Fingerprint": "q5t20f3qxi",
+      "Integrity": "4rN1uBMIU/eFs9ElDxWb6ORLzyK2bQ3EFVNbFGkIuyY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\eren.sezen\\source\\repos\\AspNetSecurity\\AspNetSecurity\\XSS\\wwwroot\\comment.txt"
@@ -1438,8 +1438,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "3r8b2a0bt1",
-      "Integrity": "8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=",
+      "Fingerprint": "oyo0whu007",
+      "Integrity": "oJ3Wl70I+C2w7XL0W+1o80zwrCB8M6/ACsVA6tWYWeE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\comment.txt"
@@ -2770,13 +2770,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "comment.3r8b2a0bt1.txt",
-      "AssetFile": "C:\\Users\\eren.sezen\\source\\repos\\AspNetSecurity\\AspNetSecurity\\XSS\\obj\\Debug\\net9.0\\compressed\\roknqsmis3-3r8b2a0bt1.gz",
+      "Route": "comment.oyo0whu007.txt",
+      "AssetFile": "C:\\Users\\eren.sezen\\source\\repos\\AspNetSecurity\\AspNetSecurity\\XSS\\obj\\Debug\\net9.0\\compressed\\roknqsmis3-oyo0whu007.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.041666666667"
+          "Quality": "0.029411764706"
         }
       ],
       "ResponseHeaders": [
@@ -2786,15 +2786,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23"
+          "Value": "33"
         },
         {
           "Name": "ETag",
-          "Value": "\"Zd+4tKe+YyWXvSCQtbmshsT5I0pKoALzyCu8fniaMWo=\""
+          "Value": "\"4rN1uBMIU/eFs9ElDxWb6ORLzyK2bQ3EFVNbFGkIuyY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 06 Sep 2025 23:42:54 GMT"
+          "Value": "Sat, 06 Sep 2025 23:47:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2814,13 +2814,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=\""
+          "Value": "W/\"oJ3Wl70I+C2w7XL0W+1o80zwrCB8M6/ACsVA6tWYWeE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3r8b2a0bt1"
+          "Value": "oyo0whu007"
         },
         {
           "Name": "label",
@@ -2828,12 +2828,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U="
+          "Value": "sha256-oJ3Wl70I+C2w7XL0W+1o80zwrCB8M6/ACsVA6tWYWeE="
         }
       ]
     },
     {
-      "Route": "comment.3r8b2a0bt1.txt",
+      "Route": "comment.oyo0whu007.txt",
       "AssetFile": "C:\\Users\\eren.sezen\\source\\repos\\AspNetSecurity\\AspNetSecurity\\XSS\\wwwroot\\comment.txt",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2843,7 +2843,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3"
+          "Value": "19"
         },
         {
           "Name": "Content-Type",
@@ -2851,11 +2851,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=\""
+          "Value": "\"oJ3Wl70I+C2w7XL0W+1o80zwrCB8M6/ACsVA6tWYWeE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 06 Sep 2025 23:42:54 GMT"
+          "Value": "Sat, 06 Sep 2025 23:47:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2865,7 +2865,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3r8b2a0bt1"
+          "Value": "oyo0whu007"
         },
         {
           "Name": "label",
@@ -2873,13 +2873,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U="
+          "Value": "sha256-oJ3Wl70I+C2w7XL0W+1o80zwrCB8M6/ACsVA6tWYWeE="
         }
       ]
     },
     {
-      "Route": "comment.3r8b2a0bt1.txt.gz",
-      "AssetFile": "C:\\Users\\eren.sezen\\source\\repos\\AspNetSecurity\\AspNetSecurity\\XSS\\obj\\Debug\\net9.0\\compressed\\roknqsmis3-3r8b2a0bt1.gz",
+      "Route": "comment.oyo0whu007.txt.gz",
+      "AssetFile": "C:\\Users\\eren.sezen\\source\\repos\\AspNetSecurity\\AspNetSecurity\\XSS\\obj\\Debug\\net9.0\\compressed\\roknqsmis3-oyo0whu007.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2888,7 +2888,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23"
+          "Value": "33"
         },
         {
           "Name": "Content-Type",
@@ -2896,11 +2896,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Zd+4tKe+YyWXvSCQtbmshsT5I0pKoALzyCu8fniaMWo=\""
+          "Value": "\"4rN1uBMIU/eFs9ElDxWb6ORLzyK2bQ3EFVNbFGkIuyY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 06 Sep 2025 23:42:54 GMT"
+          "Value": "Sat, 06 Sep 2025 23:47:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2918,7 +2918,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3r8b2a0bt1"
+          "Value": "oyo0whu007"
         },
         {
           "Name": "label",
@@ -2926,18 +2926,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Zd+4tKe+YyWXvSCQtbmshsT5I0pKoALzyCu8fniaMWo="
+          "Value": "sha256-4rN1uBMIU/eFs9ElDxWb6ORLzyK2bQ3EFVNbFGkIuyY="
         }
       ]
     },
     {
       "Route": "comment.txt",
-      "AssetFile": "C:\\Users\\eren.sezen\\source\\repos\\AspNetSecurity\\AspNetSecurity\\XSS\\obj\\Debug\\net9.0\\compressed\\roknqsmis3-3r8b2a0bt1.gz",
+      "AssetFile": "C:\\Users\\eren.sezen\\source\\repos\\AspNetSecurity\\AspNetSecurity\\XSS\\obj\\Debug\\net9.0\\compressed\\roknqsmis3-oyo0whu007.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.041666666667"
+          "Quality": "0.029411764706"
         }
       ],
       "ResponseHeaders": [
@@ -2947,15 +2947,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23"
+          "Value": "33"
         },
         {
           "Name": "ETag",
-          "Value": "\"Zd+4tKe+YyWXvSCQtbmshsT5I0pKoALzyCu8fniaMWo=\""
+          "Value": "\"4rN1uBMIU/eFs9ElDxWb6ORLzyK2bQ3EFVNbFGkIuyY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 06 Sep 2025 23:42:54 GMT"
+          "Value": "Sat, 06 Sep 2025 23:47:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2975,13 +2975,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=\""
+          "Value": "W/\"oJ3Wl70I+C2w7XL0W+1o80zwrCB8M6/ACsVA6tWYWeE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U="
+          "Value": "sha256-oJ3Wl70I+C2w7XL0W+1o80zwrCB8M6/ACsVA6tWYWeE="
         }
       ]
     },
@@ -2996,7 +2996,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3"
+          "Value": "19"
         },
         {
           "Name": "Content-Type",
@@ -3004,11 +3004,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=\""
+          "Value": "\"oJ3Wl70I+C2w7XL0W+1o80zwrCB8M6/ACsVA6tWYWeE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 06 Sep 2025 23:42:54 GMT"
+          "Value": "Sat, 06 Sep 2025 23:47:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3018,13 +3018,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U="
+          "Value": "sha256-oJ3Wl70I+C2w7XL0W+1o80zwrCB8M6/ACsVA6tWYWeE="
         }
       ]
     },
     {
       "Route": "comment.txt.gz",
-      "AssetFile": "C:\\Users\\eren.sezen\\source\\repos\\AspNetSecurity\\AspNetSecurity\\XSS\\obj\\Debug\\net9.0\\compressed\\roknqsmis3-3r8b2a0bt1.gz",
+      "AssetFile": "C:\\Users\\eren.sezen\\source\\repos\\AspNetSecurity\\AspNetSecurity\\XSS\\obj\\Debug\\net9.0\\compressed\\roknqsmis3-oyo0whu007.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3033,7 +3033,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23"
+          "Value": "33"
         },
         {
           "Name": "Content-Type",
@@ -3041,11 +3041,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Zd+4tKe+YyWXvSCQtbmshsT5I0pKoALzyCu8fniaMWo=\""
+          "Value": "\"4rN1uBMIU/eFs9ElDxWb6ORLzyK2bQ3EFVNbFGkIuyY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 06 Sep 2025 23:42:54 GMT"
+          "Value": "Sat, 06 Sep 2025 23:47:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3063,7 +3063,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Zd+4tKe+YyWXvSCQtbmshsT5I0pKoALzyCu8fniaMWo="
+          "Value": "sha256-4rN1uBMIU/eFs9ElDxWb6ORLzyK2bQ3EFVNbFGkIuyY="
         }
       ]
     },
