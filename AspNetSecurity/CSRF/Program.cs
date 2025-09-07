@@ -6,7 +6,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllersWithViews(opts =>
     opts.Filters.Add(new AutoValidateAntiforgeryTokenAttribute()) // tüm post işlemlerinde otomatik olarak antiforgery token doğrulaması yapar
-));
+);
 
 var app = builder.Build();
 
